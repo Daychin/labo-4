@@ -1,0 +1,45 @@
+body{
+    background-image: url("../image/cinema.jpg");
+    background-size: cover;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    
+
+}
+
+h1{
+    color:white;
+    padding-left: 20px;
+}
+
+.tout{
+    list-style: none
+    
+    
+}
+
+
+.director1{
+    color: yellowgreen; 
+    font-size: 25px;
+   
+
+    
+}
+
+
+.film1{
+    list-style-type: upper-alpha;
+    font-size: 20px;
+    color: white;
+    list-style-type: upper-latin;
+
+}
+
+.actor1{
+    list-style: disc;
+    color: white;
+    font-size: 16px ;
+
+}
+
